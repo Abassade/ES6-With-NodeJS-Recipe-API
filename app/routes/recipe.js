@@ -1,4 +1,3 @@
-import express from "express";
 import recipeController from "../controllers/recipe";
 
 export default (app)=>{
